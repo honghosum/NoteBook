@@ -19,8 +19,8 @@
 ### 3、字典 / 列表
 
     dic = {'name': ['Sisyphus', 'Athena', 'Zeus', 'Hera', 'Lucifer'],
-       'gender': ['male', 'female', 'male', 'female', 'male'],
-       'rank': ['D', 'B', 'A', 'C', 'B']}
+           'gender': ['male', 'female', 'male', 'female', 'male'],
+           'rank': ['D', 'B', 'A', 'C', 'B']}
 
     li = [['Sisyphus', 'Athena', 'Zeus', 'Hera', 'Lucifer'],
           ['male', 'female', 'male', 'female', 'male'],
