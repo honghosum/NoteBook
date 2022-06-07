@@ -75,7 +75,9 @@
 #### (1)、常规
 
     df['name'] # 返回Series
+    
     df.name # 返回Series
+    
     df['name'].to_list() # 返回list
 
 #### (2)、loc
