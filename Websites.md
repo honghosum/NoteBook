@@ -11,7 +11,7 @@
 
 [和鲸社区Kesci-数据集](https://www.heywhale.com/home/dataset)
 
-[![image](https://user-images.githubusercontent.com/42307155/172318853-592ac62c-2c91-4baf-b871-1cc94cfdf6f0.png "和鲸社区")](https://www.kaggle.com/datasets)
+[![image](https://user-images.githubusercontent.com/42307155/172318853-592ac62c-2c91-4baf-b871-1cc94cfdf6f0.png "和鲸社区")](https://www.heywhale.com/home/dataset)
 
 [KDNuggets](https://www.kdnuggets.com/datasets/index.html)
 
