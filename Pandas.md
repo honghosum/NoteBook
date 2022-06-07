@@ -58,3 +58,11 @@
 
 ### 2、筛选
 
+#### (1)、常规
+
+    df['col'] # 返回Series
+    df.col # 返回Series
+    df['col'].to_list() # 返回list
+
+#### (2)、loc
+
