@@ -1,6 +1,3 @@
-# 网址
-
-
 ## I、数据集
 
 [Google Dataset Search-搜索数据集](https://toolbox.google.com/datasetsearch)
@@ -13,7 +10,7 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172318853-592ac62c-2c91-4baf-b871-1cc94cfdf6f0.png "和鲸社区")](https://www.heywhale.com/home/dataset)
 
-[KDNuggets](https://www.kdnuggets.com/datasets/index.html)
+### [KDNuggets](https://www.kdnuggets.com/datasets/index.html)
 
 [![image](https://user-images.githubusercontent.com/42307155/172319085-4d58b4e3-b995-4272-9bb4-33896cf78f67.png "KDNuggets")](https://www.kaggle.com/datasets)
 
