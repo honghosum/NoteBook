@@ -108,6 +108,10 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172517344-41a986cb-b31c-4b9d-bc9b-217070771fb5.png "艾瑞指数")](https://data.iresearch.com.cn)
 
+### [清博智能](https://www.gsdata.cn/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172549201-6664b393-d5a3-4f26-980e-81ee86ce8529.png "清博智能")](https://www.gsdata.cn/)
+
 ### [Chnbrand](http://www.chn-brand.org/)
 
 [![image](https://user-images.githubusercontent.com/42307155/172544180-17527ef6-b354-43e8-8a20-a4249a041d5a.png "Chnbrand")](http://www.chn-brand.org/)
@@ -191,6 +195,18 @@
 ### [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
 [![image](https://user-images.githubusercontent.com/42307155/172547004-f81edd8a-c091-424c-837f-5b2349ef0f24.png "Pandas")](https://pandas.pydata.org/pandas-docs/stable/index.html)
+
+### [MDN Web Doc](https://developer.mozilla.org/en-US/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172548535-d437d5a2-c54d-422d-a643-8b93a6754ef4.png "MDN Web Doc")](https://developer.mozilla.org/en-US/)
+
+### [Echarts](https://echarts.apache.org/zh/index.html)
+
+[![image](https://user-images.githubusercontent.com/42307155/172548708-cd6663c9-4844-4eb8-a8eb-ac8f58be15fb.png "Echarts")](https://echarts.apache.org/zh/index.html)
+
+### [PyEcharts](https://pyecharts.org/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172549582-785dad9f-be29-4357-a2c6-8ed9c474616f.png "PyEcharts")](https://pyecharts.org/)
 
 ## VIII、素材类
 
