@@ -217,3 +217,33 @@
 ### [Airpano](https://airpano.org.cn)
 
 [![image](https://user-images.githubusercontent.com/42307155/172524897-ae91d0b7-290a-4b2a-8f39-f457ae220aac.png "Airpano")](https://airpano.org.cn)
+
+## IX、招投标
+
+### [中国政府采购网](http://search.ccgp.gov.cn/bxsearch)
+
+[![image](https://user-images.githubusercontent.com/42307155/172559447-3e5024f9-229a-4ac2-8c56-e3ebc96a1e02.png "中国政府采购网")](http://search.ccgp.gov.cn/bxsearch)
+
+### [全国公共资源交易平台](http://www.ggzy.gov.cn/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172559669-cf06b6f4-47cc-4356-ab37-1ab923cfc79a.png "全国公共资源交易平台")](http://www.ggzy.gov.cn/)
+
+### [千里马](http://www.qianlima.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172561129-0d8e0d5c-cf37-4e34-81c4-ed7c0a8b23bc.png "千里马")](http://www.qianlima.com/)
+
+### [RCC瑞达恒](http://www.rccchina.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172561305-6535708f-e95e-43bd-9566-88f350dfe2ea.png "RCC瑞达恒")](http://www.rccchina.com/)
+
+### [中项网](https://www.ccpc360.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172564217-c619a0cb-dd0f-4b94-a662-3688b8bff563.png "中项网")](https://www.ccpc360.com/)
+
+### [天辰TCBCI](http://www.tcbci.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172564768-f9d578b7-1d13-45df-81a0-193b1b639a7f.png "天辰TCBCI")](http://www.tcbci.com/)
+
+### [中策大数据](https://www.china0001.com.cn/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172565062-97040ae6-971a-4403-96d4-091856e16e53.png "中策大数据")](https://www.china0001.com.cn/)
