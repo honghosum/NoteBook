@@ -1,12 +1,12 @@
 ## I、数据集
 
-### [Google Dataset Search-搜索数据集](https://toolbox.google.com/datasetsearch)
+### [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
-### [Kaggle-数据集](https://www.kaggle.com/datasets)
+### [Kaggle](https://www.kaggle.com/datasets)
 
 [![image](https://user-images.githubusercontent.com/42307155/172315618-29c3a330-e5b8-4742-8ab5-1e8cb7fd0589.png "Kaggle")](https://www.kaggle.com/datasets)
 
-### [和鲸社区Kesci-数据集](https://www.heywhale.com/home/dataset)
+### [和鲸社区Kesci](https://www.heywhale.com/home/dataset)
 
 [![image](https://user-images.githubusercontent.com/42307155/172318853-592ac62c-2c91-4baf-b871-1cc94cfdf6f0.png "和鲸社区")](https://www.heywhale.com/home/dataset)
 
@@ -36,7 +36,7 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172320084-b6be4fcb-dabb-4298-9fbf-428bb30436d6.png "MNIST Database")](http://yann.lecun.com/exdb/mnist/)
 
-### [斯坦福大学数据集](https://snap.stanford.edu/data/index.html)
+### [Stanford University](https://snap.stanford.edu/data/index.html)
 
 [![image](https://user-images.githubusercontent.com/42307155/172320238-7e05f5ec-1e96-442d-96ac-af09d3a65050.png "Stanford")](https://snap.stanford.edu/data/index.html)
 
