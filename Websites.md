@@ -43,6 +43,10 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172320238-7e05f5ec-1e96-442d-96ac-af09d3a65050.png "Stanford")](https://snap.stanford.edu/data/index.html)
 
+[AMiner数据集](https://www.aminer.cn/data)
+
+[![image](https://user-images.githubusercontent.com/42307155/172526754-7013198e-ee72-484b-921c-5694576ab079.png "AMiner数据集")](https://www.aminer.cn/data)
+
 ## II、现成数据
 
 [镝数据](https://www.dydata.io/)
@@ -141,7 +145,17 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172525106-ac94a316-ee09-4456-b3d4-aec7550672aa.png "萝卜投研")](https://robo.datayes.com/)
 
-## V、工具类
+## V、文献类
+
+[AMiner](https://www.aminer.cn/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172526987-85cae4a5-8411-4cb4-9b43-c816a8f88db7.png "AMiner")](https://www.aminer.cn/)
+
+[Papers With Code](https://paperswithcode.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172527143-78e4ae5c-7574-4c8c-aa8a-f191925ca6c3.png "Papers With Code")](https://paperswithcode.com/)
+
+## VI、工具类
 
 [超级PDF](https://www.xpdf.cn/)
 
@@ -159,7 +173,11 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172524327-ab86b05d-33c4-45ec-9423-ce6665d3eb5a.png "RegExr")](https://regexr.com/)
 
-## VI、素材类
+[SPSSAU](https://spssau.com/index.html)
+
+[![image](https://user-images.githubusercontent.com/42307155/172527305-f376ffcc-b4b1-4403-9ad5-51c5136d7f80.png "SPSSAU")](https://spssau.com/index.html)
+
+## VII、素材类
 
 [Pexels](https://www.pexels.com/zh-cn/)
 
