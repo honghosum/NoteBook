@@ -93,46 +93,64 @@
 
 [巨量算数](https://trendinsight.oceanengine.com/)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517112-8b441e18-2ae3-4a2d-b05b-2ee97c3c20d2.png)](https://trendinsight.oceanengine.com/)
+[![image](https://user-images.githubusercontent.com/42307155/172517112-8b441e18-2ae3-4a2d-b05b-2ee97c3c20d2.png "巨量算数")](https://trendinsight.oceanengine.com/)
 
 [百度指数](https://index.baidu.com)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517268-0617c3dc-0c8b-4617-b9c1-eab4f0ccf119.png)](https://index.baidu.com)
+[![image](https://user-images.githubusercontent.com/42307155/172517268-0617c3dc-0c8b-4617-b9c1-eab4f0ccf119.png "百度指数")](https://index.baidu.com)
 
 [艾瑞指数](https://data.iresearch.com.cn)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517344-41a986cb-b31c-4b9d-bc9b-217070771fb5.png)](https://data.iresearch.com.cn)
+[![image](https://user-images.githubusercontent.com/42307155/172517344-41a986cb-b31c-4b9d-bc9b-217070771fb5.png "艾瑞指数")](https://data.iresearch.com.cn)
 
 ## IV、研报门户
 
 [199IT](http://www.199it.com/)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517429-fc7e7634-1d24-45e3-b6ab-7a528f6c91dd.png)](http://www.199it.com/)
+[![image](https://user-images.githubusercontent.com/42307155/172517429-fc7e7634-1d24-45e3-b6ab-7a528f6c91dd.png "199IT")](http://www.199it.com/)
 
 [艾媒网](https://www.iimedia.cn/)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517516-667df14a-56e6-477c-817e-f5a207b1a22e.png)](https://www.iimedia.cn/)
+[![image](https://user-images.githubusercontent.com/42307155/172517516-667df14a-56e6-477c-817e-f5a207b1a22e.png "艾媒网")](https://www.iimedia.cn/)
 
 [艾瑞网](https://www.iresearch.cn/)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517587-7122cacf-bf89-4b69-92e7-438176aef906.png)](https://www.iresearch.cn/)
+[![image](https://user-images.githubusercontent.com/42307155/172517587-7122cacf-bf89-4b69-92e7-438176aef906.png "艾瑞网")](https://www.iresearch.cn/)
 
 [中投网](http://www.ocn.com.cn/)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517679-f7b25a37-ac58-435c-963e-8630d8a679b1.png)](http://www.ocn.com.cn/)
+[![image](https://user-images.githubusercontent.com/42307155/172517679-f7b25a37-ac58-435c-963e-8630d8a679b1.png "中投网")](http://www.ocn.com.cn/)
 
 [房天下](https://fdc.fang.com/)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517784-895c34ce-f2e4-4687-91e1-50b752da4980.png)](https://fdc.fang.com/)
+[![image](https://user-images.githubusercontent.com/42307155/172517784-895c34ce-f2e4-4687-91e1-50b752da4980.png "房天下")](https://fdc.fang.com/)
 
 [易观分析](https://www.analysys.cn/article/analysis/)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517864-d36619f0-ca91-4068-af16-27fa81bc8873.png)](https://www.analysys.cn/article/analysis/)
+[![image](https://user-images.githubusercontent.com/42307155/172517864-d36619f0-ca91-4068-af16-27fa81bc8873.png "易观分析")](https://www.analysys.cn/article/analysis/)
 
 [阿里研究院](http://www.aliresearch.com)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517953-83b80337-199b-4286-ab59-1d8ba4136823.png)](http://www.aliresearch.com)
+[![image](https://user-images.githubusercontent.com/42307155/172517953-83b80337-199b-4286-ab59-1d8ba4136823.png "阿里研究院")](http://www.aliresearch.com)
 
 [巨潮网](http://www.cninfo.com.cn/new/index)
 
-[![image](https://user-images.githubusercontent.com/42307155/172517999-63f6015a-0ac2-4409-b5fd-d15470e07511.png)](http://www.cninfo.com.cn/new/index)
+[![image](https://user-images.githubusercontent.com/42307155/172517999-63f6015a-0ac2-4409-b5fd-d15470e07511.png "巨潮网")](http://www.cninfo.com.cn/new/index)
+
+## V、工具类
+
+[超级PDF](https://www.xpdf.cn/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172523364-55086aa6-ada0-443d-a2d1-bbf13395de2b.png "超级PDF")](https://www.xpdf.cn/)
+
+[TinyPNG](https://tinypng.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172523506-a5810940-66c6-411a-b45c-4bef489ca65f.png "TinyPNG")](https://tinypng.com/)
+
+[Currency Exchange Rates](https://www.xe.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172523620-3f2605a1-bca3-4f58-bce3-9f42bfbc74d2.png "Currency Exchange Rates")](https://www.xe.com/)
+
+[RegExr](https://regexr.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172524327-ab86b05d-33c4-45ec-9423-ce6665d3eb5a.png "RegExr")](https://regexr.com/)
