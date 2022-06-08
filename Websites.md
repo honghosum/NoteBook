@@ -150,7 +150,7 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172525106-ac94a316-ee09-4456-b3d4-aec7550672aa.png "萝卜投研")](https://robo.datayes.com/)
 
-## V、文献类
+## V、资源收编类
 
 ### [AMiner](https://www.aminer.cn/)
 
@@ -159,6 +159,10 @@
 ### [Papers With Code](https://paperswithcode.com/)
 
 [![image](https://user-images.githubusercontent.com/42307155/172527143-78e4ae5c-7574-4c8c-aa8a-f191925ca6c3.png "Papers With Code")](https://paperswithcode.com/)
+
+### [HelloGithub](https://hellogithub.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172579348-bfd39fa3-2242-4e1c-a5ec-344e5c5b53d0.png "HelloGithub")](https://hellogithub.com/)
 
 ## VI、工具类
 
