@@ -111,6 +111,10 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172517344-41a986cb-b31c-4b9d-bc9b-217070771fb5.png "艾瑞指数")](https://data.iresearch.com.cn)
 
+[Chnbrand](http://www.chn-brand.org/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172544180-17527ef6-b354-43e8-8a20-a4249a041d5a.png "Chnbrand")](http://www.chn-brand.org/)
+
 ## IV、研报门户
 
 [199IT](http://www.199it.com/)
@@ -177,7 +181,21 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172527305-f376ffcc-b4b1-4403-9ad5-51c5136d7f80.png "SPSSAU")](https://spssau.com/index.html)
 
-## VII、素材类
+## VII、文档类
+
+[Markdown](https://markdown.com.cn/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172545391-56116edd-ebf3-454e-8979-fd837867b66c.png "Markdown")](https://markdown.com.cn/)
+
+[Microsoft Office VBA](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)
+
+[![image](https://user-images.githubusercontent.com/42307155/172546674-78eb9df9-dd0d-48b8-9690-dcb97b3e1aea.png "Microsoft Office VBA")](https://docs.microsoft.com/zh-cn/office/vba/api/overview/)
+
+[Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
+
+[![image](https://user-images.githubusercontent.com/42307155/172547004-f81edd8a-c091-424c-837f-5b2349ef0f24.png "Pandas")](https://pandas.pydata.org/pandas-docs/stable/index.html)
+
+## VIII、素材类
 
 [Pexels](https://www.pexels.com/zh-cn/)
 
