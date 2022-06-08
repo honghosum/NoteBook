@@ -139,3 +139,35 @@
     df.iloc[:, [True, False, True, False]] # 指定对应为True的列的所有行，返回DataFrame
 
     df.iloc[:, lambda df: [0, 2]] # 指定0列2列的所有行，返回DataFrame
+
+## 三、修改
+
+### 1、修改函数
+
+#### (1)、replace
+
+    df.replace('male', 'female', inplace=True, regex=False) # 全局替换，inplace为True时对原表进行修改
+
+    df.loc[df['name'] == 'Zeus', 'sex'] = df.loc[df['name'] == 'Zeus', 'sex'].str.replace('male', 'female', regex=False) # 局部替换，无inplace参数
+
+#### (2)、rename
+
+    df.rename(columns={'name': 'NAME', 'grade', 'GRADE'}, inplace=True) # 对列名进行修改，inplace为True时对原表进行修改
+
+    df.rename(index={0: 'a', 1: 'b', 2: 'c'}, inplace=True) #对索引值进行修改，inplace为True时对原表进行修改
+
+### 2、链式赋值问题
+
+> SettingWithCopyWarning
+
+尽量使用单次索引来赋值
+
+    df.loc[df['name'] == 'Zeus', 'sex'] = 'female'
+
+两次索引会引起链式赋值问题
+
+    df[df['name'] == 'Zeus']['sex'] = 'female' # df[df['name'] == 'Zeus']第一次索引，['sex']第二次索引
+
+    x = df.loc[df['rank'] == 'A'] # 第一次索引
+    
+    x.loc[x['name'] == 'Zeus', 'sex'] = 'female' # 第二次索引
