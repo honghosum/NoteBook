@@ -64,6 +64,8 @@
 
 ### [ATLAS](https://atlas.cid.harvard.edu/)
 
+> 世界各国外贸数据，疫情后没有更新
+
 [![image](https://user-images.githubusercontent.com/42307155/172321216-746a8803-dbdc-4541-adea-67ff7cf4c08a.png "ATLAS")](https://atlas.cid.harvard.edu/)
 
 ### [国家统计局](https://data.stats.gov.cn/)
@@ -144,9 +146,13 @@
 
 ### [巨潮网](http://www.cninfo.com.cn/new/index)
 
+> 比较容易查到上市企业的招股书，季度报告等
+
 [![image](https://user-images.githubusercontent.com/42307155/172517999-63f6015a-0ac2-4409-b5fd-d15470e07511.png "巨潮网")](http://www.cninfo.com.cn/new/index)
 
 ### [萝卜投研](https://robo.datayes.com/)
+
+> 查券商报告
 
 [![image](https://user-images.githubusercontent.com/42307155/172525106-ac94a316-ee09-4456-b3d4-aec7550672aa.png "萝卜投研")](https://robo.datayes.com/)
 
@@ -176,9 +182,13 @@
 
 ### [Currency Exchange Rates](https://www.xe.com/)
 
+> 实时汇率
+
 [![image](https://user-images.githubusercontent.com/42307155/172523620-3f2605a1-bca3-4f58-bce3-9f42bfbc74d2.png "Currency Exchange Rates")](https://www.xe.com/)
 
 ### [RegExr](https://regexr.com/)
+
+> 正则表达式
 
 [![image](https://user-images.githubusercontent.com/42307155/172524327-ab86b05d-33c4-45ec-9423-ce6665d3eb5a.png "RegExr")](https://regexr.com/)
 
