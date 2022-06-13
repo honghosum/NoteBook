@@ -171,3 +171,15 @@
     x = df.loc[df['rank'] == 'A'] # 第一次索引
     
     x.loc[x['name'] == 'Zeus', 'sex'] = 'female' # 第二次索引
+    
+## 四、导出
+
+    writer = pandas.ExcelWriter(path)
+
+    df.to_excel(writer, sheet_name=, index=, header=, startrow=, startcol=)
+
+    # index和header表示是否显示索引值与表头，默认为True，startrow和startcol表示写入excel的行列位置，可指定不同的行列写入不同的dataframe
+
+    writer.save()
+
+    writer.close()
