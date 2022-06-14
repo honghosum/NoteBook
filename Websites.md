@@ -198,6 +198,8 @@
 
 ### [Equation Editor](https://latex.codecogs.com/)
 
+> 公式编辑器，可以嵌入Github的MarkDown中，如`![](http://latex.codecogs.com/gif.latex?\{S_{x}}^{2})`
+
 [![image](https://user-images.githubusercontent.com/42307155/173469394-f392e988-df65-4093-8ccf-5abc405d8cd5.png "Equation Editor")](https://latex.codecogs.com/)
 
 ## VII、文档类
