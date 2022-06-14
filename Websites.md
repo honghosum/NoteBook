@@ -196,6 +196,10 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/172527305-f376ffcc-b4b1-4403-9ad5-51c5136d7f80.png "SPSSAU")](https://spssau.com/index.html)
 
+### [Equation Editor](https://latex.codecogs.com/)
+
+[![image](https://user-images.githubusercontent.com/42307155/173469394-f392e988-df65-4093-8ccf-5abc405d8cd5.png "Equation Editor")](https://latex.codecogs.com/)
+
 ## VII、文档类
 
 ### [Markdown](https://markdown.com.cn/)
