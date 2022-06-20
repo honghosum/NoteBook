@@ -210,6 +210,10 @@
 
 [![image](https://user-images.githubusercontent.com/42307155/174550848-f8d83cb3-7c5d-4d45-9b13-6550cde171b4.png "中国色")](http://zhongguose.com/)
 
+### [Color Hunt](https://colorhunt.co/)
+
+[![image](https://user-images.githubusercontent.com/42307155/174551630-1d838ae7-8423-4382-90f9-ead5123f935f.png "Color Hunt")](https://colorhunt.co/)
+
 ## VII、文档类
 
 ### [Markdown](https://markdown.com.cn/)
