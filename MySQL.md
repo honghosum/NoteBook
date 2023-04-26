@@ -16,9 +16,9 @@
     
     -p为密码，如果设置了密码，可直接在-p后直接输入
     
-### 导入.csv
+## 导入.csv
 
-#### 启动客户机读取文件权限
+### 启动客户机读取文件权限
     
     重新登录MySQL
     
@@ -34,7 +34,7 @@
     
     如果未在登录MySQL时打开，则会出现ERROR 2068 LOAD DATA LOCAL INFILE file request rejected due to restrictions on access
     
-#### 修改数据上传/导出目录限制
+### 修改数据上传/导出目录限制
     
     在\MySQL\MySQL Server 8.0\bin目录下，打开my.ini配置文件
     
@@ -52,7 +52,7 @@
     
     如果未修改，则会出现ERROR 1290 The MySQL server is running with the --secure-file-priv option so it cannot execute this statement
     
-#### 导入文件
+### 导入文件
 
     先预处理csv文件，用Notepad++打开文件，编码-转为UTF8编码-保存
     
